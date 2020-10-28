@@ -10,4 +10,5 @@ This is repository contain a resume about studying LFCS.
 15. [I/O Scheduling](LFS201-15-io-scheduling.md)
 16. [Linux Filesystems and the VFS](LFS201-16-linux-filesystenms-vfs.md)
 17. [Disk Partitioning](LFS201-17-disk-partitioning.md)
-18. [File System Features](LFS201-18-file-system-features.md)
+18. [Filesystem Features: Attributes, Creating, Checking, Mounting](LFS201-18-file-system-features-attibutes-creating-checking-mounting.md)
+19. [Filesystem Features: Swap, Quotas, Usage](LFS201-19-file-system-features-swap-quotas-usage.md)
