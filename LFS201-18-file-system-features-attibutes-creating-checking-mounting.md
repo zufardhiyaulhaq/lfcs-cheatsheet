@@ -149,5 +149,5 @@ touch /mnt/tempdir/data
 
 - add into fstab
 ```
-echo "/home/vagrant/datadisk /mnt/tempdir loop 1 2"
+echo "/home/vagrant/datadisk /mnt/tempdir loop 1 2" >> /etc/fstab
 ```

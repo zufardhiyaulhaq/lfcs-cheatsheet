@@ -12,3 +12,4 @@ This is repository contain a resume about studying LFCS.
 17. [Disk Partitioning](LFS201-17-disk-partitioning.md)
 18. [Filesystem Features: Attributes, Creating, Checking, Mounting](LFS201-18-file-system-features-attibutes-creating-checking-mounting.md)
 19. [Filesystem Features: Swap, Quotas, Usage](LFS201-19-file-system-features-swap-quotas-usage.md)
+23. [Logical Volume Management (LVM)](LFS201-23-logical-volume-management.md)
